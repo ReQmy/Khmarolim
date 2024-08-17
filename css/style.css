@@ -123,3 +123,7 @@ nav{
 
     background-color: var(--secondary-color);
 }
+
+.button:hover{
+    color: #ffffff;
+}

@@ -28,6 +28,10 @@
     margin-right: auto;
 }
 
+nav{
+    display: flex;
+}
+
 .navigation, 
 .social{
     display: flex;
@@ -45,4 +49,9 @@
 
 .social li{
     margin-right: 12px;
+}
+
+.navigation li:last-child, 
+.social li:last-child{
+    margin-right: 0;
 }

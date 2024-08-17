@@ -98,6 +98,9 @@ nav{
 }
 
 .accent-text{
-    font-size: 90px;
     color: var(--secondary-text-color);
+
+    text-transform: uppercase;
+
+    font-size: 90px;
 }

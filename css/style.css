@@ -33,7 +33,7 @@
     margin-right: auto;
 
 
-    --secondary-text-color: #FAB72A;
+    --secondary-color: #FAB72A;
 
 
     font-family: "Inter", serif;
@@ -77,7 +77,7 @@ nav{
 }
 
 .navigation li{
-    margin-right: 24px;
+    margin-right:; 24px;
 }
 
 .social li{
@@ -98,9 +98,22 @@ nav{
 }
 
 .accent-text{
-    color: var(--secondary-text-color);
+    color: var(--secondary-color);
 
     text-transform: uppercase;
 
     font-size: 90px;
+}
+
+.button{
+    width: 320px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+    color: #000;
+
+    text-transform: uppercase;
+
+
 }

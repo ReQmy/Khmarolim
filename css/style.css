@@ -16,8 +16,9 @@
     outline: 0;
 
     color: #000;
-    text-decoration: line-through;
-    background-color: #50f7502f;
+    text-decoration: line-through;/*none*/
+
+    background-color: #50f7502f;/*debug line*/
 }
 
 

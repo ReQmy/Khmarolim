@@ -93,8 +93,11 @@ nav{
     text-transform: uppercase;
 }
 
-.first-section h1{
+
+
+.headline-section h1{
     font-size: 85px;
+    font-weight: 600;
 }
 
 .accent-text{

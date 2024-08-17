@@ -130,6 +130,8 @@ section{
 
 .headline-section h1 span:first-child{
     padding-left: 140px;
+
+    font-size: 1em;
 }
 
 .headline-section h1 span:nth-child(2){
@@ -139,6 +141,8 @@ section{
 }
 .headline-section h1 span:last-child{
     padding-left: 45px;
+    
+    font-size: 1em;
 }
 
 .accent-text{

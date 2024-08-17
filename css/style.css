@@ -6,9 +6,8 @@
     src: url("fonts/Inter-VariableFont_opsz wght.ttf") format("truetype");
 }
 */
-*, 
-*::after, *::before, 
-*:hover, *:active, *:focus{
+*, *:focus,
+*::after, *::before{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -21,6 +20,7 @@
 
     background-color: #50f7502f;/*debug line*/
 }
+
 
 
 

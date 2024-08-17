@@ -35,5 +35,16 @@
 }
 
 .navigation li{
-    margin-left: 25px;
+    margin-left: 24px;
+}
+
+
+.social{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.social li{
+    margin-left: 12px;
 }

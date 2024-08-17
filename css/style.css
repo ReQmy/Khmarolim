@@ -100,6 +100,7 @@ nav{
 
 section{
     margin-top: 80px;
+    max-height: 1vh;
 }
 
 .first-section{
@@ -173,4 +174,13 @@ section{
 .button:hover{
     color: #ffffff;
     cursor: pointer;
+}
+
+
+.drone-images-section img:first-child{
+    width: 750px;
+}
+
+.drone-images-section img:last-child{
+    width: 330px;
 }

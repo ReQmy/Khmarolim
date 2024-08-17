@@ -80,3 +80,10 @@ nav{
 .navigation-element{
     text-transform: uppercase;
 }
+
+h1{
+    font-weight: 400;
+}
+h2{
+    font-weight: 100;
+}

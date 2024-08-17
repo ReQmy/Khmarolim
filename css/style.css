@@ -21,9 +21,6 @@
     background-color: #50f7502f;/*debug line*/
 }
 
-*:hover{
-    cursor: pointer;
-}
 
 
 .wrapper{
@@ -175,4 +172,5 @@ section{
 
 .button:hover{
     color: #ffffff;
+    cursor: pointer;
 }

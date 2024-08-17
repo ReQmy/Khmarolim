@@ -106,6 +106,7 @@ section{
 .first-section{
     display: flex;
     flex-direction: row;
+    align-content: space-between;
 }
 
 .headline-section h1{

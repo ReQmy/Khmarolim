@@ -110,9 +110,21 @@ section{
 }
 
 .headline-section h1{
+    display: flex;
     text-transform: uppercase;
     font-size: 85px;
     font-weight: 600;
+}
+
+.headline-section h1 span:first-child{
+    align-self: flex-end;
+}
+
+.headline-section h1 span:nth-child(2){
+    align-self: center;
+}
+.headline-section h1 span:last-child{
+    align-self: flex-start;
 }
 
 .accent-text{

@@ -129,7 +129,7 @@ section{
 }
 
 .headline-section h1 span:first-child{
-    padding-left: 140px;
+    padding-left: 150px;
 
     font-size: 1em;
 }
@@ -140,8 +140,8 @@ section{
     font-size: 90px;
 }
 .headline-section h1 span:last-child{
-    padding-left: 45px;
-    
+    padding-left: 40px;
+
     font-size: 1em;
 }
 

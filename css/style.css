@@ -103,6 +103,10 @@ section{
     margin-top: 80px;
 }
 
+.first-section{
+    display: flex;
+    flex-direction: row;
+}
 
 .headline-section h1{
     text-transform: uppercase;

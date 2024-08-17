@@ -25,6 +25,14 @@
 
 
 .wrapper{
+
+
+    max-width: 1300px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    
     --secondary-text-color: #FAB72A;
 
 

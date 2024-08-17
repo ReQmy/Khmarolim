@@ -96,14 +96,13 @@ nav{
 
 
 .headline-section h1{
+    text-transform: uppercase;
     font-size: 85px;
     font-weight: 600;
 }
 
 .accent-text{
     color: var(--secondary-color);
-
-    text-transform: uppercase;
 
     font-size: 90px;
 }

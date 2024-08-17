@@ -28,22 +28,19 @@
     margin-right: auto;
 }
 
-.navigation{
+.navigation, 
+.social{
     display: flex;
     list-style: none;
     align-items: center;
+}
+
+.navigation{
     margin-left: 48px;
 }
 
 .navigation li{
     margin-right: 24px;
-}
-
-
-.social{
-    display: flex;
-    list-style: none;
-    align-items: center;
 }
 
 .social li{

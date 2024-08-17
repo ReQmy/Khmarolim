@@ -122,6 +122,8 @@ section{
 
 .headline-section h1 span:nth-child(2){
     align-self: center;
+
+    font-size: 90px;
 }
 .headline-section h1 span:last-child{
     align-self: flex-start;
@@ -129,8 +131,6 @@ section{
 
 .accent-text{
     color: var(--secondary-color);
-
-    font-size: 90px;
 }
 
 .button{

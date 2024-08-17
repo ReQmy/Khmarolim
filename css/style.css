@@ -100,7 +100,7 @@ nav{
 
 section{
     margin-top: 80px;
-    max-height: 1vh;
+    /*max-height: 100vh;*/
 }
 
 .first-section{

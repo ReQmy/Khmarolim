@@ -176,11 +176,27 @@ section{
     cursor: pointer;
 }
 
+.drone-images-section{
+    display: flex;
+    align-items: flex-start;
+}
+
+.drone-images-section img{
+    position: relative;
+}
 
 .drone-images-section img:first-child{
-    width: 750px;
+    width: 740px;
+    position: relative;
+    top: -110px;
+    left: -140px;
+    rotate: -8deg;
 }
 
 .drone-images-section img:last-child{
     width: 330px;
+    position: relative;
+    top: 200px;
+    left: -500px;
+    rotate: 4deg;
 }

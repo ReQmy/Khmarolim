@@ -15,8 +15,9 @@
     border: 0;
     outline: 0;
 
-    color: #000;
-    text-decoration: line-through;/*none*/
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
 
     background-color: #50f7502f;/*debug line*/
 }

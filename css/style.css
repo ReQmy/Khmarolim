@@ -65,13 +65,10 @@ nav{
     display: flex;
 }
 
-/*милиця, поки не обрізане зображення логотипу*/
-
-
+.logo,
 .logo img{
     height: 60px;
 }
-/*кінець милиці*/
 
 .navigation, 
 .social{

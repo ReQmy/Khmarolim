@@ -66,16 +66,10 @@ nav{
 }
 
 /*милиця, поки не обрізане зображення логотипу*/
-.logo{
-    height: 90px;
-    display: flex;
-    align-items: center; 
-}
+
 
 .logo img{
-    width: 160px;
-    position: relative;
-    top: 6px;
+    height: 60px;
 }
 /*кінець милиці*/
 

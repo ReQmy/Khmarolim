@@ -65,6 +65,10 @@ nav{
     display: flex;
 }
 
+.logo{
+    
+}
+
 .navigation, 
 .social{
     display: flex;
